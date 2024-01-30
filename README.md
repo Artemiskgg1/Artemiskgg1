@@ -33,12 +33,21 @@
 
 # ✨ My GitHub Stats:
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=Artemiskgg1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="450px"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Artemiskgg1&theme=tokyonight&hide_border=false" width="450px"/>
-<br/>
-
+<div align="center">
+  <table>
+    <tr>
+      <!-- LeetCode Streak -->
+      <td>
+        <img src="https://leetcode-badge-showcase.vercel.app/api?username=Artemiskgg1&theme=tokyonight&animated=true" alt="LeetCode Badges" width="325px"/>
+      </td>
+      <!-- GitHub Stats -->
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Artemiskgg1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="450px"/>
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artemiskgg1&theme=tokyonight&hide_border=false" width="450px"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 # 🏆 GitHub Trophies:
