@@ -14,7 +14,7 @@
 
 🔭 I’m currently working on **Deep Learning and Full Stack**
 
-🌱 Currently on my **Nth** tutorial
+🌱 Currently **pretending I know what's going on**
 
 👯 I’m looking to collaborate on **Deep Learning Projects**
 
