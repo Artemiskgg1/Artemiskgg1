@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aboreto&weight=500&size=35&duration=4000&pause=1000&color=D4C36F&background=EBFF3900&center=true&multiline=true&random=false&width=450&height=130&lines=Greetings!+;I'm+Abha+Ghildiyal+%F0%9F%9A%80)](https://git.io/typing-svg)
