@@ -16,7 +16,7 @@
     <h2 align="center">📫 How to reach me:</h2>
     <p align="center" style="margin-top: 20px;">
         <a href="https://linkedin.com/in/abha-ghildiyal-6ba119223" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border: none;" />
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border: none;" target />
         </a>
         <a href="https://abha-ghildiyal.vercel.app/" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="border: none;" />
