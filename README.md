@@ -22,13 +22,21 @@
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="border: none;" />
     </a>
 </div>
-
 <hr/>
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
-<br/>
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,react,express,fastapi,mongodb,mysql,nextjs"/>
         <img src="https://skillicons.dev/icons?i=c,cpp,python,tensorflow,pytorch,tailwind,git,kali"/>
     </a>
+</div>
+<hr/>
+<h2 align="center">✨ My Github Stats ✨</h2>
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=artemisKGG1&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)
+  <br/>
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=artemisKGG1&theme=nightowl&hide_border=false)
+  <br/>
 </div>
