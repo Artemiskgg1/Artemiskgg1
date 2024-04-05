@@ -14,10 +14,10 @@
   <p> 🍀I'm Currently learning <b>NextJS, DrizzleORM and Svelte</b> </p>
 </div>
 
-<h2 align="center">📫 How to reach me:</h2>
 <div id="badges" align="center">
-  <a href="https://abha-ghildiyal.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+<h2 align="center">📫 How to reach me:</h2>
+  <a href="https://linkedin.com/in/abha-ghildiyal-6ba119223">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://abha-ghildiyal.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
