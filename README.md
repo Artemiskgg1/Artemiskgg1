@@ -10,7 +10,8 @@
 
 <div align="center">
   <p>Lost in the mystique of a piano's melody 🎶</p>
-  <p>🍀 I'm Currently learning <b>NextJS, DrizzleORM, and Svelte</b></p>
+  <p>🍀 I'm Currently learning <b>NextJS, DrizzleORM, and Svelte</b>
+  </p>
 </div>
 
   <h2 align="center">📫 How to reach me:</h2>
