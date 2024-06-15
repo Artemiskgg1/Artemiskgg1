@@ -8,24 +8,10 @@
 
 <h1 style="text-align: center;">A Passionate Software Developer from India 🇮🇳</h1>
 
-<!-- Short Introduction -->
   <img align="right" width="300" src="https://github.com/artemisKGG1/artemisKGG1/raw/main/octocat-artemis.png" alt="Your Image"  />
   <p>🔭 I’m currently working on <b>Deep Learning and Full Stack</b></p>
   <p>🍀 I'm Currently<b> stuck in tutorial Hell</b></p>
   <p>⚡ Fun fact: <b>I'm Iron 1</b></p>
-
-<!-- Contact Section -->
-<h2 align="left">📫 How to reach me:</h2>
-<p align="left">
-  <a href="https://linkedin.com/in/abha-ghildiyal-6ba119223" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border: none;" />
-  </a> 
-  <a href="https://abha-ghildiyal.vercel.app/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="border: none;" />
-  </a>
-</p>
-
-<!-- Languages, Frameworks, and Tools -->
 
 # 🛠️ Tech Stack:
 
@@ -35,8 +21,6 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,python,tensorflow,pytorch,tailwind,git,kali,django"/>
   </a>
 </div>
-
-<!-- GitHub Stats -->
 
 # ✨ My GitHub Stats:
 
