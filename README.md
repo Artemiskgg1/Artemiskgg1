@@ -40,7 +40,7 @@
 
 # ✨ My GitHub Stats:
 
-<div">
+<div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=artemisKGG1&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" width="400px"/>
 <br/>
