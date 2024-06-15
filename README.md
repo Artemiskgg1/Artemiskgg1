@@ -8,7 +8,7 @@
 
 <h1 style="text-align: center;">A Passionate Software Developer from India 🇮🇳</h1>
 
-<img align="right" width="300" src="https://github.com/artemisKGG1/artemisKGG1/raw/main/octocat-artemis.png" alt="Your Image"  />
+<img align="right" width="500" src="https://github.com/artemisKGG1/artemisKGG1/raw/main/octocat-artemis.png" alt="Your Image"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artemisKGG1&label=Profile%20views&color=0e2431&style=flat" alt="artemiskgg1" /> </p>
 
 - 🔭 I’m currently working on **Deep Learning and Full Stack**
