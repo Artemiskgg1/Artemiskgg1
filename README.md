@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h1 style="text-align: center;">A Passionate Software Developer from India 🇮🇳</h1>
+<h1 align="center">A Passionate Software Developer from India 🇮🇳</h1>
 
 <img align="right" width="280" src="octocat-artemiskgg1.png" alt="artemisKGG1"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artemisKGG1&label=Profile%20views&color=0e2431&style=flat" alt="artemiskgg1" /> </p>
@@ -14,6 +14,10 @@
 - 🔭 I’m currently working on **Deep Learning and Full Stack**
 
 - 🌱 Currently on my **Nth** tutorial
+
+- 👯 I’m looking to collaborate on **Deep Learning Projects**
+
+- 💬 Ask me about **Anything**
 
 - ⚡ Fun fact - **I'm IRON 1**
 
