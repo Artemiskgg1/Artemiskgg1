@@ -8,10 +8,10 @@
 
 <h1 style="text-align: center;">A Passionate Software Developer from India 🇮🇳</h1>
 
-  <img align="right" width="300" src="https://github.com/artemisKGG1/artemisKGG1/raw/main/octocat-artemis.png" alt="Your Image"  />
-  <p>🔭 I’m currently working on <b>Deep Learning and Full Stack</b></p>
-  <p>🍀 I'm Currently<b> stuck in tutorial Hell</b></p>
-  <p>⚡ Fun fact: <b>I'm Iron 1</b></p>
+<img align="right" width="300" src="https://github.com/artemisKGG1/artemisKGG1/raw/main/octocat-artemis.png" alt="Your Image"  />
+<p>🔭 I’m currently working on <b>Deep Learning and Full Stack</b></p>
+<p>🍀 I'm Currently<b> stuck in tutorial Hell</b></p>
+<p>⚡ Fun fact: <b>I'm Iron 1</b></p>
 
 # 🛠️ Tech Stack:
 
@@ -25,7 +25,6 @@
 # ✨ My GitHub Stats:
 
 <div>
-
 <img src="https://github-readme-stats.vercel.app/api?username=artemisKGG1&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" width="400px"/>
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=artemisKGG1&theme=nightowl&hide_border=false" width="400px"/>
