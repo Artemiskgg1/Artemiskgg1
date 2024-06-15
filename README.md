@@ -10,13 +10,11 @@
 
 <!-- Short Introduction -->
 <div align="left">
-  <div>
-  <img align="right" src="https://github.com/artemisKGG1/artemisKGG1/raw/main/octocat-artemis.png" alt="Your Image" style="width:300px;height:auto;border-radius:50%;" /></div>
-
-</div>
+  <img align="right" src="https://github.com/artemisKGG1/artemisKGG1/raw/main/octocat-artemis.png" alt="Your Image" style="width:300px;height:auto;border-radius:50%;" />
   <p>🔭 I’m currently working on <b>Deep Learning and Full Stack</b></p>
-  <p>🍀 I'm Currently<b> stuck in tutorial Hell</b></p>
+  <p>🍀 I'm Currently <b>stuck in tutorial Hell</b></p>
   <p>⚡ Fun fact: <b>I'm Iron 1</b></p>
+</div>
 
 <!-- Contact Section -->
 <h2 align="left">📫 How to reach me:</h2>
@@ -40,19 +38,14 @@
 
 <!-- GitHub Stats -->
 <h2>✨ My GitHub Stats ✨</h2>
-<div">
-
-<img src="https://github-readme-stats.vercel.app/api?username=artemisKGG1&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" width="400px"/>
-<br/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=artemisKGG1&theme=nightowl&hide_border=false" width="400px"/>
-<br/>
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=artemisKGG1&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artemisKGG1&theme=nightowl&hide_border=false" width="400px"/>
 </div>
 
 <!-- Trophies -->
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=artemiskgg1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=artemiskgg1&theme=onedark" alt="trophy"/>
+  </a>
 </div>
