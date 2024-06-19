@@ -1,4 +1,4 @@
-<img src="chilling.gif" alt="chillin" width="1920" height="200"/>
+<img src="studyin.gif" alt="chillin" width="1920" height="250"/>
 <h1 align="center">
   <a href="https://git.io/typing-svg" style="text-decoration: none;">
     <span style="text-decoration: none;">
