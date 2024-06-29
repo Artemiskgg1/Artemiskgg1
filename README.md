@@ -9,8 +9,8 @@
 
 <h1 align="center">A Passionate Software Developer from India 🇮🇳</h1>
 
-<img align="right" width="265" src="assets/octocat-artemis.png" alt="artemisKGG1"  />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=artemisKGG1&label=Profile%20views&color=0e2431&style=flat" alt="artemiskgg1" /> </p>
+<img align="right" width="265" src="assets/octocat-iynes.png" alt="iynes"  />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iynes&label=Profile%20views&color=0e2431&style=flat" alt="iynes" /> </p>
 
 - 🔭 I’m currently working on **Deep Learning and Full Stack**
 
@@ -34,9 +34,9 @@
 # ✨ My GitHub Stats:
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=artemisKGG1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="450px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iynes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="450px"/>
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=artemisKGG1&theme=tokyonight&hide_border=false" width="450px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iynes&theme=tokyonight&hide_border=false" width="450px"/>
 <br/>
 
 </div>
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=artemisKGG1&theme=darkhub&no-frame=true" width="800"/>
+<img src="https://github-trophies.vercel.app/?username=iynes&theme=darkhub&no-frame=true" width="800"/>
 
 </div>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0426.gif" border="0" alt="animated-line-image-0426" width="1920" height="2" /></a>
