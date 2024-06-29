@@ -27,16 +27,16 @@
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,react,express,fastapi,mongodb,mysql,nextjs"/>
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,tensorflow,pytorch,tailwind,git,kali,django"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,tensorflow,pytorch,tailwind,git,kali,django,rust"/>
   </a>
 </div>
 
 # ✨ My GitHub Stats:
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=artemisKGG1&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" width="400px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=artemisKGG1&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" width="500px"/>
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=artemisKGG1&theme=nightowl&hide_border=false" width="400px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=artemisKGG1&theme=nightowl&hide_border=false" width="500px"/>
 <br/>
 
 </div>
