@@ -1,4 +1,4 @@
-<img src="studyin.gif" alt="chillin" width="1920" height="250"/>
+<img src="assets/studyin.gif" alt="chillin" width="1920" height="250"/>
 <h1 align="center">
   <a href="https://git.io/typing-svg" style="text-decoration: none;">
     <span style="text-decoration: none;">
@@ -9,7 +9,7 @@
 
 <h1 align="center">A Passionate Software Developer from India 🇮🇳</h1>
 
-<img align="right" width="265" src="octocat-artemis.png" alt="artemisKGG1"  />
+<img align="right" width="265" src="assets/octocat-artemis.png" alt="artemisKGG1"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artemisKGG1&label=Profile%20views&color=0e2431&style=flat" alt="artemiskgg1" /> </p>
 
 - 🔭 I’m currently working on **Deep Learning and Full Stack**
