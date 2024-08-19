@@ -12,15 +12,15 @@
 <img align="right" width="265" src="assets/octocat-iynes.png" alt="iynes"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iynes&label=Profile%20views&color=0e2431&style=flat" alt="iynes" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning and Full Stack**
+🔭 I’m currently working on **Deep Learning and Full Stack**
 
-- 🌱 Currently on my **Nth** tutorial
+🌱 Currently on my **Nth** tutorial
 
-- 👯 I’m looking to collaborate on **Deep Learning Projects**
+👯 I’m looking to collaborate on **Deep Learning Projects**
 
-- 💬 Ask me about **Anything**
+💬 Ask me about **Anything**
 
-- ⚡ Fun fact - **I'm IRON 1**
+⚡ Fun fact - **I'm IRON 1**
 
 # 🛠️ Tech Stack:
 
