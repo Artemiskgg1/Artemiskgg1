@@ -12,7 +12,7 @@
 <img align="right" width="238" src="assets/octocat-queen.png" alt="iynes"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iynes&label=Profile%20views&color=0e2431&style=flat" alt="iynes" /> </p>
 
-🔭 I’m currently working on **Stable Diffusion and Full Stack**
+🔭 I’m currently working on **Deep Learning and Full Stack**
 
 🌱 Currently on my **Nth** tutorial
 
