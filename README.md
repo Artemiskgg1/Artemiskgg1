@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=iynes&theme=darkhub&no-frame=true" width="800"/>
+<img src="https://github-trophies.vercel.app/?username=Artemiskgg1&theme=darkhub&no-frame=true" width="800"/>
 
 </div>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0426.gif" border="0" alt="animated-line-image-0426" width="1920" height="2" /></a>
