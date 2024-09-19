@@ -38,7 +38,7 @@
     <tr>
       <!-- LeetCode Streak -->
       <td>
-        <img src="https://leetcode-badge-showcase.vercel.app/api?username=Artemiskgg1&theme=dracula&animated=true" alt="LeetCode Badges" width="325px"/>
+        <!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=Artemiskgg1&theme=dracula&animated=true" alt="LeetCode Badges" width="325px"/> -->
       </td>
       <!-- GitHub Stats -->
       <td>
