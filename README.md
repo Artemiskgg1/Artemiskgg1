@@ -38,13 +38,13 @@
     <tr>
       <!-- LeetCode Streak -->
       <td>
-        <img src="https://leetcode-badge-showcase.vercel.app/api?username=Artemiskgg1&theme=monokai&animated=true" alt="LeetCode Badges" width="325px"/>
+        <img src="https://leetcode-badge-showcase.vercel.app/api?username=Artemiskgg1&theme=dracula&animated=true" alt="LeetCode Badges" width="325px"/>
       </td>
       <!-- GitHub Stats -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Artemiskgg1&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&rank_icon=github" width="450px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Artemiskgg1&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&rank_icon=github" width="450px"/>
         <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artemiskgg1&theme=monokai&hide_border=false" width="450px"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artemiskgg1&theme=dracula&hide_border=false" width="450px"/>
       </td>
     </tr>
   </table>
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=Artemiskgg1&theme=monokai&no-frame=true" width="800"/>
+<img src="https://github-trophies.vercel.app/?username=Artemiskgg1&theme=dracula&no-frame=true" width="800"/>
 
 </div>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0426.gif" border="0" alt="animated-line-image-0426" width="1920" height="2" /></a>
