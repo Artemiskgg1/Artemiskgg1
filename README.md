@@ -9,8 +9,8 @@
 
 <h1 align="center">A Passionate Software Developer from India 🇮🇳</h1>
 
-<img align="right" width="238" src="assets/octocat-queen.png" alt="iynes"  />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iynes&label=Profile%20views&color=0e2431&style=flat" alt="iynes" /> </p>
+<img align="right" width="320" src="assets/artemis-octocat-gif.gif" alt="Artemis"  />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iynes&label=Profile%20views&color=0e2431&style=flat" alt="Artemis" /> </p>
 
 🔭 I’m currently working on **Deep Learning and Full Stack**
 
