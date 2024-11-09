@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=Artemiskgg1&theme=tokyonight&no-frame=true" width="800"/>
+<img src="https://github-trophies.vercel.app/?username=Artemiskgg1&theme=discord&no-frame=true" width="800"/>
 
 </div>
 
