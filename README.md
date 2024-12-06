@@ -38,7 +38,7 @@
     <tr>
       <!-- LeetCode Streak -->
       <td>
-        <img src="https://leetcode-badge-showcase.vercel.app/api?username=Artemiskgg1&theme=tokyonight&animated=true" alt="LeetCode Badges" width="325px"/>
+        <img src="https://leetcode-badge-showcase.vercel.app/api?username=rt3mis&theme=tokyonight&animated=true" alt="LeetCode Badges" width="325px"/>
       </td>
       <!-- GitHub Stats -->
       <td>
@@ -59,5 +59,6 @@
 </div>
 
 # 😎 My Badges:
+
 [![An image of @artemiskgg1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/artemiskgg1)](https://holopin.io/@artemiskgg1)
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0426.gif" border="0" alt="animated-line-image-0426" width="1920" height="2" /></a>
