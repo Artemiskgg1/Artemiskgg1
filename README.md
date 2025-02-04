@@ -28,6 +28,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,react,express,fastapi,mongodb,mysql,nextjs"/>
     <img src="https://skillicons.dev/icons?i=c,cpp,python,tensorflow,pytorch,tailwind,git,kali,django,rust"/>
+    
+    <img src="https://skillicons.dev/icons?i=nestjs"/>
   </a>
 </div>
 
@@ -35,9 +37,9 @@
 
 <div align="center">
   <table>
-    <tr>
+    <tr >
       <!-- LeetCode Streak -->
-      <td>
+      <td align="center">
         <img src="https://leetcode-badge-showcase.vercel.app/api?username=rt3mis&theme=tokyonight&animated=true" alt="LeetCode Badges" width="325px"/>
       </td>
       <!-- GitHub Stats -->
