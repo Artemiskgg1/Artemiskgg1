@@ -26,11 +26,9 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,react,express,fastapi,mongodb,mysql,nextjs"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,react,express,fastapi,mongodb,mysql,nextjs,prisma"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,tensorflow,pytorch,tailwind,git,kali,django,rust"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=prisma,nestjs"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,tensorflow,pytorch,tailwind,git,kali,django,rust,nestjs"/>
   </a>
 </div>
 
